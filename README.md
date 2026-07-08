@@ -1,5 +1,9 @@
 # Sudoku Solver
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://sudoku-solver-fv8o.onrender.com/)
+[![Open Issues](https://img.shields.io/github/issues/TheAmitChandra/SudokuSolver.svg)](https://github.com/TheAmitChandra/SudokuSolver/issues)
+
 A web-based Sudoku solver built with Flask, designed to solve Sudoku puzzles from uploaded images or manual input. This application uses a trained machine learning model (scikit-learn) to assist in solving puzzles and employs computer vision techniques to extract Sudoku grids.
 
 ---
