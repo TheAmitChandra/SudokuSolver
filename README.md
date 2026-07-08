@@ -67,3 +67,4 @@ A web-based Sudoku solver built with Flask, designed to solve Sudoku puzzles fro
 
 
 # The prroject's 1st phase was completed soon start with the next phase!
+# Soon enable launch the doc site as well!
